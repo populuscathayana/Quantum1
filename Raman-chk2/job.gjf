@@ -1,0 +1,5 @@
+%NProcShared=5
+%mem=28GB
+%OldChk=../Base2/job.chk
+%Chk=job.chk
+#p B3LYP/6-31G(d) Freq=Raman Geom=AllCheck Guess=Read Int=UltraFine SCF=Tight
